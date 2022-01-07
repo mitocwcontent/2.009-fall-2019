@@ -1,0 +1,13 @@
+leftnav:
+- identifier: 2194fd7c-6438-3372-4400-e0ff6cc66e2c
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: external-95206f3d40564185aeb313d5a5cfd344
+  name: 2.009 PRODUCT ENGINEERING PROCESS
+  url: https://web.mit.edu/2.009/www/index.html
+  weight: 1000
+- identifier: external-adf68091a2ab413981d6e12314b89621
+  name: 2.S009 EXPLORATIONS IN PRODUCT DESIGN
+  url: https://2s009.com/
+  weight: 1010
